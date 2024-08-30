@@ -7,7 +7,8 @@
 ## Verify Provenance
 
 ```bash
-gh attestation verify oci://ghcr.io/anshulpatel25/docker-meetup-slsa-sbom-august-2024:<tag-name> -R anshulpatel25/docker-meetup-slsa-sbom-august-2024
+gh attestation verify oci://ghcr.io/anshulpatel25/safeguarding-container-supply-chain-meetup:0c5f4763121c4e1c8eab32de32dadb6da5a59167 -R anshulpatel25/safeg
+uarding-container-supply-chain-meetup
 ```
 
 ### Scan SBOM for vulnerabilities
