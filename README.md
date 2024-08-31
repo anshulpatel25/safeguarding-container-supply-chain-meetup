@@ -1,4 +1,6 @@
 # Docker Meetup August 2024
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fanshulpatel25%2Fsafeguarding-container-supply-chain-meetup.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fanshulpatel25%2Fsafeguarding-container-supply-chain-meetup?ref=badge_shield)
+
 
 ## Presentation
 
@@ -16,3 +18,7 @@ uarding-container-supply-chain-meetup
 ```bash
 grype sbom:./sbom.spdx.json
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fanshulpatel25%2Fsafeguarding-container-supply-chain-meetup.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fanshulpatel25%2Fsafeguarding-container-supply-chain-meetup?ref=badge_large)
